@@ -20,8 +20,8 @@
     "path": "^0.12.7"
   },
   "build": {
-    "productName": "NavyismDesktop",
-    "appId": "네이비즘 서버시간",
+    "productName": "네이비즘 서버시간",
+    "appId": "NavyismDesktop",
     "mac": {
       "target": [
         "default"
